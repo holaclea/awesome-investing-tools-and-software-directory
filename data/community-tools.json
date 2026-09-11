@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "DividendSteps",
+    "url": "https://dividendsteps.com/",
+    "categories": [
+      "Dividends",
+      "ETF Comparison"
+    ],
+    "summary": "A public, source-linked dividend research site with SCHD payment history, dated holdings snapshots, and ETF comparison pages."
+  }
+]

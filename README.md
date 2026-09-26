@@ -20,8 +20,8 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | Section | Tools |
 | --- | ---: |
 | [🧾 Filings and Transcripts](#-filings-and-transcripts) | 6 |
-| [👥 Ownership and Corporate Activity](#-ownership-and-corporate-activity) | 28 |
-| [🧺 ETFs and Funds](#-etfs-and-funds) | 8 |
+| [👥 Ownership and Corporate Activity](#-ownership-and-corporate-activity) | 27 |
+| [🧺 ETFs and Funds](#-etfs-and-funds) | 9 |
 | [🔗 Crypto and On-chain](#-crypto-and-on-chain) | 2 |
 | [⚙️ Options and Derivatives](#-options-and-derivatives) | 7 |
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
@@ -56,7 +56,6 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [CEO Watcher](https://www.ceowatcher.com) — CEO Watcher is a U.S. insider-trading discovery and alert tool for investors who want Form 4 activity ranked by insiders’ historical forward returns. It is strongest for finding high-signal insider buys and sells,… ([research profile](https://www.findmymoat.com/tools/ceo-watcher?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=ceo-watcher))
 - [Chittorgarh.com](https://www.chittorgarh.com) — Chittorgarh.com is a long-running Indian primary-market portal for retail investors following IPOs, FPOs, NCDs, bonds, broker reviews, subscription data, and grey-market premium snapshots. It is strongest for quick… ([research profile](https://www.findmymoat.com/tools/chittorgarh-com?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=chittorgarh-com))
 - [Dilution Tracker](https://dilutiontracker.com) — Dilution Tracker is a small-cap research tool for monitoring share-supply risk from shelves, ATMs, warrants, convertibles, S-1 offerings, reverse splits, and related filings. It is useful when dilution risk can make or… ([research profile](https://www.findmymoat.com/tools/dilution-tracker?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=dilution-tracker))
-- [DividendSteps](https://dividendsteps.com/) — A public, source-linked dividend research site with SCHD payment history, dated holdings snapshots, and ETF comparison pages.
 - [Fintel](https://fintel.io) — Fintel is a market-signal research platform for investors who want short interest, off-exchange volume, institutional ownership, insider trades, ETF exposure, options sentiment, filings, screeners, dashboards, alerts,… ([research profile](https://www.findmymoat.com/tools/fintel?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=fintel))
 - [HedgeFollow](https://hedgefollow.com) — HedgeFollow is a web research platform for tracking hedge funds, institutional holders, insider trades, ETF activity, ownership flows, stock pages, fund pages, and portfolio-builder workflows from SEC filings. It is… ([research profile](https://www.findmymoat.com/tools/hedgefollow?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=hedgefollow))
 - [HighShortInterest.com](https://www.highshortinterest.com) — HighShortInterest.com is a simple free list of U.S. stocks with short interest above 20%, organized by exchange for users who want a fast starting point for heavily shorted names. It is strongest as a no-login,… ([research profile](https://www.findmymoat.com/tools/highshortinterest-com?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=highshortinterest-com))
@@ -86,6 +85,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 
 ### 🧺 ETFs and Funds
 
+- [Dividend Data Toolkit](https://github.com/holaclea/dividend-data-toolkit) — Dependency-free Python tools for auditing dated dividend payments with explicit share-split handling and calculating one company's exposure across ETF positions. Includes historical SCHD CSV snapshots with sources.
 - [ETF Action](https://www.etfaction.com) — ETF Action is an ETF analytics platform for advisors, asset managers, and ETF-focused investors who need classification, look-through holdings, overlap, flows, model portfolios, 13F screening, exports, and enterprise… ([research profile](https://www.findmymoat.com/tools/etf-action?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=etf-action))
 - [ETF Central](https://www.etfcentral.com) — ETF Central is a free ETF research and education site for screening, comparing, watching, and learning about U.S.-listed ETFs. It supports approachable ETF discovery, segment flows, portfolio building, news, and ETF… ([research profile](https://www.findmymoat.com/tools/etf-central?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=etf-central))
 - [ETF Insider](https://etfinsider.co) — ETF Insider is a web-based ETF, mutual fund, and stock portfolio visualization tool for investors who want to see holdings overlap, concentration, correlations, factor exposure, and efficient-frontier style portfolio… ([research profile](https://www.findmymoat.com/tools/etf-insider?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=etf-insider))
